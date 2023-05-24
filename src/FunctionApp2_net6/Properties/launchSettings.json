@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionApp2_net6": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7298",
+      "launchBrowser": false
+    }
+  }
+}
